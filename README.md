@@ -3,17 +3,18 @@
 US Treasury 2 and 10 year yield spread is viewed by many market participants as a signal of an impending US recession.
 
 
-Technologies:
-Python 3.11
-Pandas
-FRED API
-Plotly Graph Objects
+##Technologies:
 
-Data:
+* Python 3.11
+* Pandas
+* FRED API
+* Plotly Graph Objects
+
+##Data:
 
 Daily 2 and 10 year US Treasury yields and recession data from Federal Reserve Bank of St Louis data website: https://fred.stlouisfed.org 
 
-Chart Description:
+##Chart Description:
 
 US Treasury 2 and 10 year yield spread plotted against quarterly US Recession history
 
@@ -21,6 +22,5 @@ US Treasury 2 and 10 year yield spread plotted against quarterly US Recession hi
 https://gmhfx.github.io/UST210Recession.html
 
 
-
-Contact
+###Contact
 gmhfx20@gmail.com
